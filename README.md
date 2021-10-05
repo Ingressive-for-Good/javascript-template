@@ -37,6 +37,7 @@ Compare parent development branch with your own development branch and create a 
 ⚠️ And the rest will be history 🙂
 
 ⚠️ REMEMBER: Always pull before pushing : git pull upstream <name of branch>
- ⚠️ REMEMBER: Use @ingressive-for-Good/teamname (e.g @ingressive-for-Good/devas or @ingressive-for-Good/ace) in any comment, issue, or pull request.
-
+ 
+ 
+⚠️ REMEMBER: Use @ingressive-for-Good/teamname (e.g @ingressive-for-Good/devas or @ingressive-for-Good/ace) in any comment, issue, or pull request.
 
